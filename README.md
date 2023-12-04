@@ -8,3 +8,14 @@
 ### Social Links
 [<img height="48" src="https://img.icons8.com/color/64/whatsapp--v1.png" width="48"/>](https://wa.me/79204755505)
 [<img height="48" src="https://img.icons8.com/color/64/telegram-app--v1.png" width="48"/>](https://t.me/Boris320)
+
+### 🛠️ Languages and Tools :
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60"/>
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="60"/>
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60"/>
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="60"/>
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="60"/>
+
+
+
+          
